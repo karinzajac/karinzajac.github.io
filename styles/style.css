@@ -1,0 +1,20 @@
+
+body {
+	text-align: center;
+	color: solid black;
+	background-color: B8B6B0;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+}
+img {
+	border: 1px solid black;
+	position: fixed;
+	top: 50px;
+	right: 50px;
+	width: 200px;
+}
+.other-ps	{
+		text-decoration: underline;
+}
+
+h1 {text-transform: uppercase;}
